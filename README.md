@@ -11,9 +11,6 @@ I modified the popular multi-modal learning model ViLT (Vision-and-Language Tran
   - `darknet53.py`: Implementation of the DarkNet53 model for height regression.
   - `resnet50.py`: Implementation of the ResNet50 model for height regression.
   - `vgg16.py`: Implementation of the VGG16 model for height regression.
-  - `.DS_Store`: macOS system file, can be ignored.
-- `README.md`
-- `ViT-Height.png`
 - `data.ipynb`: Jupyter notebook for data preprocessing and exploration.
 - `train.ipynb`: Jupyter notebook for model training.
 
